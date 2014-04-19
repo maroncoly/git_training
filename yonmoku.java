@@ -5,7 +5,7 @@ for ( int i = 0; i < 10; i++ )
     count++;
 }
 
-// 出力するよ
+// comment
 System.out.println(count);
 
 
